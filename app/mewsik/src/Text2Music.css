@@ -1,0 +1,34 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.text-container {
+    margin:auto;
+}
+
+.text {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.next-button {
+    display: grid;
+    grid-auto-flow: column;
+    grid-gap: .5em;
+    border: solid .25em transparent;
+    padding: 1em 1.5em;
+    border-radius: 9em;
+    background: 
+      linear-gradient(to right bottom, #a6c8ff, #a6f8ff) 
+        border-box;
+    cursor: pointer;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 24px;
+}
+
+.next-button:hover {
+    background: 
+      linear-gradient(to right bottom, #a6f8ff, #a6c8ff) 
+        border-box;
+}
