@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mewsik/static/css/main.3e19a064.css",
+    "main.js": "/mewsik/static/js/main.21717329.js",
+    "static/js/787.038e21ad.chunk.js": "/mewsik/static/js/787.038e21ad.chunk.js",
+    "static/media/logo.png": "/mewsik/static/media/logo.aa8177900f42f6d785b2.png",
+    "index.html": "/mewsik/index.html",
+    "main.3e19a064.css.map": "/mewsik/static/css/main.3e19a064.css.map",
+    "main.21717329.js.map": "/mewsik/static/js/main.21717329.js.map",
+    "787.038e21ad.chunk.js.map": "/mewsik/static/js/787.038e21ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e19a064.css",
+    "static/js/main.21717329.js"
+  ]
+}
